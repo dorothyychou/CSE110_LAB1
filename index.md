@@ -5,7 +5,7 @@
 
 [My Hobbies](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-hobbies)
 
-[Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#gallery)
+[Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-photo-gallery)
 
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
