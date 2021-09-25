@@ -44,7 +44,7 @@ Below are some of the photos I have taken!
 
 > This photo was taken at the *San Diego International Airport*.
 
-> You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing).
+You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing).
 
 
 ## My To-Do List
