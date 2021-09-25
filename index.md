@@ -12,7 +12,7 @@
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
 
-Hello! My name is Dorothy Chou. I am a third year student at *University of California, San Diego* pursuing a major in Mathematics-Computer Science and minor in Interaction Design.
+Hello! My name is **Dorothy Chou**. I am a third year student at *University of California, San Diego* pursuing a major in Mathematics-Computer Science and minor in Interaction Design. ~~Please ignore this sentence.~~
 
 ## Programming Languages
 Some programming languages I am familiar with are:
