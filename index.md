@@ -1,19 +1,20 @@
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
 
-Hello! I am a third year student at *University of California, San Diego*, pursuing a major in Mathematics-Computer Science and minor in Interaction Design.
+Hello! My name is Dorothy Chou. I am a third year student at *University of California, San Diego* pursuing a major in Mathematics-Computer Science and minor in Interaction Design.
 
-Some programming languages I am familiar with are:
+## Programming languages I am familiar with
 - C++
 - Java
 - Python
 - C
 
-Some of my hobbies include:
+## My Hobbies
 1. Photography
 2. Painting
 3. Listening to music
 
+## My Photos
 Below are some of the photos I have taken!
 
 ![flowers](./images/flowers.jpg)
