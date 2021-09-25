@@ -48,6 +48,8 @@ You can find more of my photos [here](https://drive.google.com/drive/folders/1tk
 
 
 ## My To-Do List
-- [x] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
-- [ ] CSE 110 Individual Engineer Statement
-- [ ] CSE 110 Fill out Individual and Team Survey
+[x] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
+
+[ ] CSE 110 Individual Engineer Statement
+
+[ ] CSE 110 Fill out Individual and Team Survey
