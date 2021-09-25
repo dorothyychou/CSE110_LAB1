@@ -36,6 +36,6 @@ Below are some of the photos I have taken!
 
 
 ## My To-Do List
-- [] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
-- [] CSE 110 Individual Engineer Statement
-- [] CSE 110 Fill out Individual and Team Survey
+[] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
+[] CSE 110 Individual Engineer Statement
+[] CSE 110 Fill out Individual and Team Survey
