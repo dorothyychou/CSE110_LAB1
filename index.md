@@ -1,11 +1,11 @@
 ## Contents
 [Introduction](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#dorothy-chou)
 
-[Programming Languages](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#programming-languages-i-am-familiar-with)
+[Programming Languages](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#programming-languages)
 
 [My Hobbies](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-hobbies)
 
-[Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-photos)
+[Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#gallery)
 
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
