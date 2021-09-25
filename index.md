@@ -26,6 +26,7 @@ git add
 git commit
 git push
 ```
+`git checkout` and `git status` were also used.
 
 ## My Hobbies
 1. Photography
