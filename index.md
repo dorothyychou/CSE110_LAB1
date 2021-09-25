@@ -19,6 +19,13 @@ Some programming languages I am familiar with are:
 - C++
 - Java
 - Python
+  
+Some commands that were used the most often in the creation this page are:
+```
+git add
+git commit
+git push
+```
 
 ## My Hobbies
 1. Photography
@@ -36,6 +43,6 @@ Below are some of the photos I have taken!
 
 
 ## My To-Do List
-- [ ] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
+- [x] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
 - [ ] CSE 110 Individual Engineer Statement
 - [ ] CSE 110 Fill out Individual and Team Survey
