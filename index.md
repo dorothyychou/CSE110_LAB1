@@ -7,6 +7,8 @@
 
 [Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-photo-gallery)
 
+[To-Do List](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-to-do-list)
+
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
 
@@ -31,3 +33,9 @@ Below are some of the photos I have taken!
 ![dog](./images/dog.JPG)
 
 > You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing).
+
+
+## My To-Do List
+- [] CSE 110 Lab Week 1: VSCode, Markdown, and Git Part 1
+- [] CSE 110 Individual Engineer Statement
+- [] CSE 110 Fill out Individual and Team Survey
