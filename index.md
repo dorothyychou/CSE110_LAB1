@@ -1,20 +1,25 @@
+## Contents
+[Introduction](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#dorothy-chou)
+[Programming Languages](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#programming-languages-i-am-familiar-with)
+[My Hobbies](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-hobbies)
+[Gallery](https://github.com/dorothyychou/CSE110_LAB1/blob/main/index.md#my-photos)
 # Dorothy Chou
 ![profile pic](./images/me.jpg)
 
 Hello! My name is Dorothy Chou. I am a third year student at *University of California, San Diego* pursuing a major in Mathematics-Computer Science and minor in Interaction Design.
 
-## Programming languages I am familiar with
+## Programming Languages
+Some programming languages I am familiar with are:
 - C++
 - Java
 - Python
-- C
 
 ## My Hobbies
 1. Photography
 2. Painting
 3. Listening to music
 
-## My Photos
+## My Photo Gallery
 Below are some of the photos I have taken!
 
 ![flowers](./images/flowers.jpg)
