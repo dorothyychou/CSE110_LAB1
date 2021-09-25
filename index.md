@@ -38,7 +38,11 @@ Below are some of the photos I have taken!
 
 ![flowers](./images/flowers.jpg)
 
+> This photo was taken in *Taipei, Taiwan*.
+
 ![dog](./images/dog.JPG)
+
+> This photo was taken at the *San Diego International Airport*.
 
 > You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing).
 
