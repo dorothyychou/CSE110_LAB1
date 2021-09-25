@@ -3,8 +3,14 @@
 
 Hello! I am a third year student at *University of California, San Diego*.
 
-> Photography is one of my hobbies and here are some of the photos I have taken!
+Some programming languages I am familiar with are:
+- C++
+- Java
+- Python
+- C
+
+Photography is one of my hobbies and here are some of the photos I have taken!
 
 ![flowers](./images/pic2.jpg)
 
-You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing)
+> You can find more of my photos [here](https://drive.google.com/drive/folders/1tk9fyCEyBG6v6qxBOdTR9YR4Tp2Bj06-?usp=sharing).
